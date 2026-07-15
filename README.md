@@ -11,7 +11,7 @@ The dashboard analyzes AI job postings collected between **2024–2026** to unco
 🚀 **Explore the Dashboard**
 
 **Streamlit App:**  
-👉 [https://YOUR-STREAMLIT-LINK.streamlit.app](https://ai-job-market-intelligence-t5kuprjpvcfbaszvhuyifz.streamlit.app/)
+👉 [AI-Job-Market-Intelligence-Dashboard](https://ai-job-market-intelligence-t5kuprjpvcfbaszvhuyifz.streamlit.app/)
 
 **GitHub Repository:**  
 👉 https://github.com/Zamiya-Muskan/AI-Job-Market-Intelligence
